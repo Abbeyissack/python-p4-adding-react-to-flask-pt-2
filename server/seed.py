@@ -24,3 +24,4 @@ def make_movies():
 if __name__ == '__main__':
     with app.app_context():
         make_movies()
+        # db.session.
